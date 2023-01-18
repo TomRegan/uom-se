@@ -1,5 +1,7 @@
-uom-se
+uom-se has been archived
 ============
+
+**uom-se** is superseded by [Indriya](https://github.com/unitsofmeasurement/indriya) and, except for critical bug fixes, will no longer be maintained. JSR 363: Units of Measurement API is replaced by JSR 385: Units of Measurement API 2.0 and it is now recommended to upgrade. Indriya is the reference implementation of JSR 385.
 
 Units of Measurement Implementation for Java SE 8
 
